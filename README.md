@@ -30,7 +30,7 @@ In this demonstration, you will serve as the reference face, allowing you to man
 `pip install -r requirements.txt` 
 - Due to the large size of our pretrained model, it cannot be stored on GitHub. Please download the model from website instead.
 https://drive.google.com/drive/folders/1kvrs53j6qG2CgkxO5hsnwnczENsLoHRA?usp=sharing
-- After downloading, unzip the file and move it to the main directory (checkpoints).
+- After downloading, unzip the file and move it to the main directory/ `./checkpoints` 
 - To experience the live demo, please prepare a USB camera.
 - Run the `demo.py`
 - To optimize performance, we highly recommend using the same version as ours.
