@@ -32,5 +32,5 @@ In this demonstration, you will serve as the reference face, allowing you to man
 https://drive.google.com/drive/folders/1kvrs53j6qG2CgkxO5hsnwnczENsLoHRA?usp=sharing
 - After downloading, unzip the file and move it to the main directory `./checkpoints` 
 - To experience the live demo, please prepare a USB camera.
-- Run the `demo.py`
+- Execute the following command `python demo.py`
 - To optimize performance, we highly recommend using the same version as ours.
