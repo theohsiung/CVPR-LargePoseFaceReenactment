@@ -1,3 +1,4 @@
+[[python 3.7]](https://www.python.org/downloads/release/python-370/)
 # PASL-for-Large-Pose-Face-Reenactment
 Abstract: We propose the Pose Adapted Shape Learning (PASL)
 for large-pose face reenactment. Different from previous
@@ -25,10 +26,11 @@ actment with performance better than state of the art.
 ![demo_show](https://user-images.githubusercontent.com/127723538/224976806-12ca10aa-1c1e-4cb0-9804-c931e5c1bc7f.gif)
 # Demo
 In this demonstration, you will serve as the reference face, allowing you to manipulate the source face and make it mimic your pose.
-
-1. Due to the large size of our pretrained model, it cannot be stored on GitHub. Please download the model from website instead.
+- To install the dependencies, please follow these steps:
+`pip install -r requirements.txt` 
+- Due to the large size of our pretrained model, it cannot be stored on GitHub. Please download the model from website instead.
 https://drive.google.com/drive/folders/1kvrs53j6qG2CgkxO5hsnwnczENsLoHRA?usp=sharing
-2. After downloading, unzip the file and move it to the main directory (checkpoints).
-3. To experience the live demo, please prepare a USB camera.
-4. Run the demo.py
-5. To optimize performance, we highly recommend using the same version as ours.
+- After downloading, unzip the file and move it to the main directory (checkpoints).
+- To experience the live demo, please prepare a USB camera.
+- Run the `demo.py`
+- To optimize performance, we highly recommend using the same version as ours.
