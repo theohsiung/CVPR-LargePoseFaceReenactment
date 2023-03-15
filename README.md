@@ -28,8 +28,8 @@ actment with performance better than state of the art.
 In this demonstration, you will serve as the reference face, allowing you to manipulate the source face and make it mimic your pose.
 - To install the dependencies, please follow these steps:
 `pip install -r requirements.txt` 
-- Due to the large size of our pretrained model, it cannot be stored on GitHub. Please download the model from website instead.
-https://drive.google.com/drive/folders/1kvrs53j6qG2CgkxO5hsnwnczENsLoHRA?usp=sharing
+- Due to the large size of our pretrained model, it cannot be stored on GitHub. Please download the model,MPIE-LP training and testing list,VoxCeleb2-LP from website instead.
+https://drive.google.com/drive/folders/1ZDn0LVMjwm5FJXnZscSSHOCOvJMtI9JW?usp=sharing
 - After downloading, unzip the file and move it to the main directory `./checkpoints` 
 - To experience the live demo, please prepare a USB camera.
 - Execute the following command `python demo.py`
