@@ -25,6 +25,7 @@ actment with performance better than state of the art.
 ![demo_show](https://user-images.githubusercontent.com/127723538/224976806-12ca10aa-1c1e-4cb0-9804-c931e5c1bc7f.gif)
 # Demo
 In this demonstration, you will serve as the reference face, allowing you to manipulate the source face and make it mimic your pose.
+
 1. Due to the large size of our pretrained model, it cannot be stored on GitHub. Please download the model from website instead.
 https://drive.google.com/drive/folders/1kvrs53j6qG2CgkxO5hsnwnczENsLoHRA?usp=sharing
 2. After downloading, unzip the file and move it to the main directory (checkpoints).
