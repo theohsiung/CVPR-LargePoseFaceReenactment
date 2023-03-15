@@ -1,4 +1,4 @@
-[[python 3.7]](https://www.python.org/downloads/release/python-370/)
+[[python 3.7]](https://www.python.org/downloads/release/python-370/),[[cuda 11.3]](https://pytorch.org/get-started/previous-versions/)
 # PASL-for-Large-Pose-Face-Reenactment
 Abstract: We propose the Pose Adapted Shape Learning (PASL)
 for large-pose face reenactment. Different from previous
